@@ -1,1 +1,1 @@
-Olá, esse foi o meu primeiro código em python(CaixaeletronicoV1). Assim que eu avançar nos meus estudos, irei melhorar o código.
+Esse é meu primeiro código em python. A idéia desse projeto é mostrar como meu código evoluiu conforme o avanço do meu estudo na linguagem python.
