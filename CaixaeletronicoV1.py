@@ -12,7 +12,7 @@ def dinheiro(txt):
         try:
             valor = int(input(txt))
         except(TypeError, ValueError):
-            print('Cara, isso é um caixa eletrônico. Digite o valor que você quer sacar em números inteiros')
+            print('Infelizmente não é possível sacar moedas :(. Digite o valor que você quer sacar em números inteiros')
             continue
         except(KeyboardInterrupt):
             print('Sua conta foi deslogada, não se preocupe ;)')
