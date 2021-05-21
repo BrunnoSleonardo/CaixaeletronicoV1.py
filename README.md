@@ -1,2 +1,1 @@
-# Caixaeletronico.py
-Primeiro projeto em python. O usuário insere um valor, e recebe a quantia digitada.
+Olá, esse foi o meu primeiro código em python(CaixaeletronicoV1). Assim que eu avançar nos meus estudos, irei melhorar o código.
